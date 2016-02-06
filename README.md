@@ -10,7 +10,7 @@ You can file issues against this repo for anything that comes up regarding the s
 * requests for components we should stock
 
 ## questions
-If you just have a question or note, you can ping us on our [slack channel](supernode.slack.com).
+If you just have a question or note, you can ping us on our [slack channel](https://supernode.slack.com).
 
 ## private stuff
 **This repo and all its issues are public.** For private matters, please email us.
